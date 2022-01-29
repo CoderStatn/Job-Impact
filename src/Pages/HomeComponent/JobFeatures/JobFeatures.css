@@ -1,0 +1,19 @@
+.job-features:hover{
+  background-color: rgb(37, 37, 37);
+  color: white;
+  /* padding: 10px; */
+
+}
+.job-features{
+  background-color: rgb(243, 240, 240);
+
+}
+.details-banner{
+    background-image: url('../../../images/blog_03-600x450.jpg');
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+  
+
+}

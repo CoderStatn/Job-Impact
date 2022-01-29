@@ -1,0 +1,7 @@
+.banner-photo{
+   background-image: url('../../../images/slider-hom1.png');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 650px; 
+}

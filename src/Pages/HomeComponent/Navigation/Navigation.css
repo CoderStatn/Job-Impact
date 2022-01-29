@@ -1,0 +1,12 @@
+.navigation-bar li{
+  margin-right: 10px;
+
+}
+
+.navigation-banner a{
+ margin-left: 15px;
+color: white;
+}
+.navigation-banner a:hover{
+color: rgb(243, 210, 24);
+}

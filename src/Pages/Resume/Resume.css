@@ -1,0 +1,7 @@
+.resume-banner{
+    background-image: url('../../images/blog_05-600x450.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}

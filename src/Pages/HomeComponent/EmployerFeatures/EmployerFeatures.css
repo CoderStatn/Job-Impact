@@ -1,0 +1,32 @@
+/* .employ-photo{
+    background-image: url('../../../images/feature-company-h1.png');
+    background-position: 155% 75%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+} */
+
+.employ-man img{
+margin-bottom: 40px;
+}
+.employ-banner{
+    background-image: url('../../../images/banner_contact.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /* height: 700px; */
+}
+.employ i{
+    background-color: #ddd;
+    padding: 12px;
+    border-radius: 30px;
+}
+.employ{
+    background-color: #fff;
+}
+.employ:hover{
+background-color: rgb(56, 56, 56);
+color: white;
+  }
+  
